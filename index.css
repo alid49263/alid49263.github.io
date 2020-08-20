@@ -28,6 +28,10 @@
 .span1{
     grid-column: 2/3;
 }
+.score div{
+    display: grid;
+    place-items: center;
+}
 .imagecont{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20% ;
