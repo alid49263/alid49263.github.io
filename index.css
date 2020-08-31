@@ -106,13 +106,13 @@ img.s{
     background-color: white;
     cursor: pointer;
 }
-img.r:active{
+img.r:focus{
     border-color: grey;
 }
-img.p:active{
+img.p:focus{
     border-color: grey;
 }
-img.s:active{
+img.s:focus{
     border-color: grey;
 }
 .say{
@@ -181,13 +181,13 @@ img.s{
     background-color: white;
     cursor: pointer;
 }
-img.r:active{
+img.r:focus{
     border-color: grey;
 }
-img.p:active{
+img.p:focus{
     border-color: grey;
 }
-img.s:active{
+img.s:focus{
     border-color: grey;
 }
 }
